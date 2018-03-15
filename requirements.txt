@@ -1,6 +1,1 @@
-$ pip install dash
-$ pip install dash-renderer
-$ pip install dash-core-components
-$ pip install dash-html-components
-$ pip install plotly
-$ pip install gunicorn
+$ pip freeze > stable-req.txt
