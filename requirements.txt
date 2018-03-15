@@ -1,1 +1,1 @@
-$ pip freeze > stable-req.txt
+$ pip freeze > requirements.txt
